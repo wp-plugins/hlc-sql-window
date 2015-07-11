@@ -18,11 +18,12 @@ It creates two private pages in your pages section, one for running the sql comm
 Simple in use with the ability to display any sql command errors.
 
 == Installation ==
-1. Upload `hlc-sql-window.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress.
+1. Download `hlc-sql-window.zip`
+2. Upload `hlc-sql-window.zip` to the `/wp-content/plugins/` directory
+3. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
-*. First version !
+* Nothing yet :)
 
 == Screenshots ==
 1. /assets/screenshot-1.png
@@ -37,4 +38,4 @@ Simple in use with the ability to display any sql command errors.
 * First version
 
 == Arbitrary section ==
-* :)
+* *** This plugin should be used only from administrators ***
